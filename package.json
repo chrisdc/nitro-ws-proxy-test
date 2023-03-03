@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "nitropack": "^2.2.3"
+  },
+  "dependencies": {
+    "ws": "^8.12.1"
+  }
+}
